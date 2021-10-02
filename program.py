@@ -16,6 +16,7 @@ tabs=np.array([3, 12,2])
 list={"abc",12,15,"c"}
 print(A)
 print(type(A))
+
 print(tabs)
 print(type(tabs))
 print(list)

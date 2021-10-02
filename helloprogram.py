@@ -1,5 +1,5 @@
 ###Python test code Nouha Mbarek
-
+""" cardinalité inf prend la clé primaire du plus forte cardinalité
 print("hello world")
 
 print("******************checkpoint 7 ****************")
